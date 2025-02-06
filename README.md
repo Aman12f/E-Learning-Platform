@@ -27,9 +27,7 @@
 
 ### 🌐 Frontend
 - **React.js** ⚛️
-- **Redux** 🗄️
 - **Tailwind CSS** 🎨
-- **Bootstrap** 🚀
 
 ### 🖥️ Backend
 - **Node.js** 🟢
@@ -80,20 +78,6 @@ npm run dev
 cd frontend
 npm start
 ```
-
-## 🔒 Environment Variables
-Create a `.env` file in the root of the project and add the following:
-```env
-MONGO_URI=your_mongo_database_url
-JWT_SECRET=your_jwt_secret_key
-PORT=5000
-```
-
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
-
-## ✨ Contributors
-- **[Your Name](https://github.com/your-username)** (Founder & Developer)
 
 ## 💌 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
